@@ -9,7 +9,7 @@ import CarPage from './pages/CarPage/CarPage';
 
 
 
-import './App.css'
+import './App.css';
 
 function App() {
   
